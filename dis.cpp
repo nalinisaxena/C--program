@@ -1,5 +1,4 @@
 #include<iostream>
-#include<conio.h>
 using namespace std;
 
 class ABC
@@ -34,7 +33,7 @@ class ABC
 			   ABC AA(200);
 			   AA.display();
 		   
-		     getch();
+		     
 			   return 0;
 		   
 	   
